@@ -19,7 +19,7 @@ A feature-rich Discord bot that can play music from YouTube, manage a queue, and
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/discord-youtube-music-bot.git
+    git clone https://github.com/Lafun-code/discord-youtube-music-bot
     cd discord-youtube-music-bot
     ```
 

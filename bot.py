@@ -309,4 +309,4 @@ async def komutlar(ctx):
     """
     await ctx.send(commands_list)
 
-bot.run('UR BOT TOKEN')
+bot.run('YOUR_DISCORD_BOT_TOKEN')

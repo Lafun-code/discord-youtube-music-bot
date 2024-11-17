@@ -5,9 +5,9 @@ A feature-rich Discord bot that can play music from YouTube, manage a queue, and
 ## Features
 - Play, pause, skip, and stop songs
 - Queue management for continuous playback
-- Support for YouTube playlists
 - Adjust volume levels
 - Admin-only message cleanup commands
+- Buttons
 
 ## Requirements
 - Python 3.8 or higher
